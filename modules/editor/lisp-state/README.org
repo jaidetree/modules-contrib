@@ -84,8 +84,8 @@ for the rest of the bindings.
 * Configuration
 The major modes the =SPC k= prefix is active in are set in =setup.el=
 via =evil-lisp-state-major-modes=: =emacs-lisp-mode=, =lisp-interaction-mode=,
-=lisp-mode=, the Clojure family, =janet-mode=, =racket-mode=, and
-=scheme-mode=.
+=lisp-mode=, the Clojure family, =janet-mode=, =racket-mode=,
+=scheme-mode=, and =fennel-mode=.
 
 * Testing
 =test/lisp-state-test.el= is a batch-mode integration test that loads the
